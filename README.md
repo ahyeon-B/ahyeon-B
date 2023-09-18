@@ -33,3 +33,4 @@
 
 🥉 Algorithm Level  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyile7189)](https://solved.ac/kyile7189)        <img src="http://mazandi.herokuapp.com/api?handle={kyile7189}&theme=warm"/>
+
