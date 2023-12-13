@@ -18,7 +18,7 @@
 <br>
 
 ## Activities 🏃 
-`0000.00 ~ 0000.00`   
+`2023.12 ~ 2024.12`    K-Software Empowerment Bootcamp 3기
 <br>
 <br>
 
