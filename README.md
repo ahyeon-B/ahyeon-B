@@ -5,7 +5,7 @@
     
 ### Hi Welcome, i'm AHYEON BAEK! 👋
 
-#### Backend Developer / Spring
+#### Backend Developer / Spring Boot
 <br>  
 
 ![Ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-B&theme=cobalt&show_icons=true)
