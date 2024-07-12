@@ -18,7 +18,7 @@
 
 #### Blog : [Ahyeon.log](https://velog.io/@kyile7189/posts)
 
-#### Portfolio : [Ahyeon's Portfolio]()  
+#### Portfolio : [Ahyeon's Portfolio](https://github.com/ahyeon-B/Ahyeon-s-Portfolio.git)  
 <br>  
 <br>
 
